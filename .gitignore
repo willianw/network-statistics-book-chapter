@@ -1,0 +1,4 @@
+# Intermediary Latex compilation files
+*.aux
+*.log
+*.out
