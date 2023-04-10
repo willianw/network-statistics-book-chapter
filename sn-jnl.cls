@@ -1673,7 +1673,7 @@
  \usepackage[authoryear]{natbib}%
   \gdef\NumBib{NO}%
 \fi%
-  \bibliographystyle{sn-mathphys}%
+  \bibliographystyle{bst/sn-mathphys}%
   \setlength{\bibsep}{1em}%
   \def\bibfont{\reset@font\fontfamily{\rmdefault}\normalsize\selectfont}%
 \fi%

@@ -1,4 +1,7 @@
 # Intermediary Latex compilation files
+*.blg
+*.bbl
 *.aux
 *.log
 *.out
+*.pdf
